@@ -1,0 +1,2 @@
+[console_scripts]
+repo-bleed = repo_bleed.cli:main
